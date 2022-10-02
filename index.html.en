@@ -1,0 +1,204 @@
+<!--头部-->
+<html>
+
+<head>
+
+<meta name="description"
+content="Minecraft Communism Union">
+
+<meta charset="utf-8">
+
+<title>Minecraft Communism Union</title> 
+        
+<meta name="keywords"
+content="Minecraft Communism Union, 我的世界, 庞玺桐, MinecraftJava1.19.2, 我的世界国际版, 游戏服务器">
+
+<link rel="icon" href="./images/icon.ico">
+
+<!--span颜色注释-->
+   <style>
+            span {
+                color: #EDEDED;
+            }
+        </style>
+
+</head>
+
+<!--固定顶部导航栏-->
+
+<style type="text/css">
+.top{
+  /* 设置宽度高度背景颜色 */
+  height: auto; /*高度改为自动高度*/
+  width:100%;
+  margin-left: 0;
+  background:#2D4571;
+  position: fixed; /*固定在顶部*/
+  top: 0;/*离顶部的距离为0*/
+  margin-bottom: 5px;
+}
+.top ul{
+  /* 清除ul标签的默认样式 */
+  width: auto;/*宽度也改为自动*/
+  list-style-type: none;
+  white-space:nowrap;
+  overflow: hidden;
+  margin-left: 5%;
+  /* margin-top: 0;          */
+  padding: 0;
+
+}
+.top li {
+  float:left; /* 使li内容横向浮动，即横向排列  */
+  margin-right:2%;  /* 两个li之间的距离*/
+  position: relative;
+  overflow: hidden;
+}
+
+.top li a{
+ /* 设置链接内容显示的格式*/
+  display: block; /* 把链接显示为块元素可使整个链接区域可点击 */
+  color:white;
+  text-align: center;
+  padding: 3px;
+  overflow: hidden;
+  text-decoration: none; /* 去除下划线 */
+  
+}
+.top li a:hover{
+  /* 鼠标选中时背景变为黑色 */
+  background-color: #293E66;
+}
+.top ul li ul{
+  /* 设置二级菜单 */
+  margin-left: -0.2px;
+  background:#182E8C;
+  position: relative;
+  display: none; /* 默认隐藏二级菜单的内容 */
+
+}
+.top ul li ul li{
+  /* 二级菜单li内容的显示 */
+  
+  float:none;
+  text-align: center;
+}
+.top ul li:hover ul{
+  /* 鼠标选中二级菜单内容时 */
+  display: block;
+}
+body{
+  background:#eff3f5;
+}
+     </style>
+<!--底部导航栏-->
+
+<!--固定顶部导航栏-->    
+          <div class="top">
+                 <center> 
+                  <ul>
+                  <li><a href="#">Minecraft&#160;Communism&#160;Union
+                  <li><a href="#C4">联系我们</a></li>
+                  <li><a href="#">一级菜单</a></li>
+                  <li><a href="#">一级菜单</a></li>
+                  <li><a href="#">下载帮助</a>
+                      <ul>
+                          <li><a href="https://www.minecraft.net/zh-hans/download"target="_blank"><b>Minecraft</b></a></li>
+                          <li><a href="https://www.java.com/zh-CN/"target="_blank">Java8</a></li>
+                          <li><a href="https://https://www.oracle.com/java/technologies/downloads/"target="_blank">Java17</a></li>
+                          <li><a href="https://hmcl.huangyuhui.net/"target="_blank">HMCL（有条件尽量支持正版）</a></li>
+                          <li><a href="https://www.mcbbs.net/forum.php?mod=viewthread&tid=719579"target="_blank">PCL（仅在开放日关闭正版验证）</a></li>
+                      </ul>
+                  </li>        
+                    </ul>
+                  </center>      
+          </div>
+      
+
+<!--身体-->
+<body background=#FEFEFE>
+  <!--表头-->
+<br><br><br>
+
+<h1 style="color:red"align="center"><big><big><big><big>Minecraft Communism Union</h1></big></big></big>
+
+<p style="color:#F75000"align="center"background="./images/background.jpg">一个崇尚社会主义的Minecraft服务器（能长期开机）游戏版本：Minecraft Java 1.19.2<br>
+
+<a href="cn-zz-bgp-6.natfrp.cloud:47314">游戏域名:cn-zz-bgp-6.natfrp.cloud:47314</a>
+
+<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=LC6KPTkFQhzfupb4f9GJNqBfr6kNcYCD&jump_from=webapi&authKey=JmcW+Ft61Bu+va7EmwVLE9W7LwNKt+Nin5INjZqAOB7PPNC9j66HGq3/8Y73rsOz"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="MCCU" title="MCCU"></a>
+
+<a href="free.tryzth.com:53592">备用域名:free.tryzth.com:53592</a><br>
+
+<a href="cn-zz-bgp-7.natfrp.cloud:32075">小游戏服务器域名:cn-zz-bgp-7.natfrp.cloud:32075</a><br>
+
+<a href="http://minecraftcommunism.free.tryzth.com"target="_blank"><html xmlns:wb="http://open.weibo.com/wb"><script src="https://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script><wb:follow-button uid="7460136539" type="red_1" width="67" height="24" ></wb:follow-button>
+
+官网：http://minecraftcommunism.free.tryzth.com
+
+<html xmlns:wb="http://open.weibo.com/wb"><script src="https://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script><wb:share-button addition="simple" type="button" default_text="这里有一个Minecraft Java1.19.2游戏服务器，大家加入和我们一起玩吧！" ralateUid="7460136539"></wb:share-button></a> 
+
+</p>
+
+  <!--图片-->
+<p style="color:red"align="center"><big><big><big><big>服务器截屏</big></big></big></big></p>
+
+<p style="color:blue"align="center">(备注：第一张图片为主服务器，第二张图片为小游戏服务器)</p>
+
+<p align="center"><img src="./images/主服务器.jpg"width="1024" height="576" /></p>
+
+<p align="center"><img src="./images/小游戏服务器.jpg"width="1024" height="576" /></p>
+
+  <!--活动-->
+<p style="color:red"align="center"><big><big><big><big>中秋节特别活动已经结束！</big></big></big></big></p>
+
+  <!--视频-->
+<p style="color:red"align="center"><big><big>相关视频</big></big></p>
+
+<p align="center">
+
+<p align="center"></a><a href="https://v.douyin.com/6Y24xVU/"target="_blank">
+<img border="0" src="./images/服务器.jpg"width="512" height="288" /></a>
+
+</a></a><a href="https://v.douyin.com/6YjJrys/"target="_blank">
+<img border="0" src="./images/建筑区（结尾）.jpg"width="512" height="288" /></a></p>
+
+  <!--网易云音乐-->
+
+<p align="center"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1945552270&auto=0&height=66"></iframe><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1961063000&auto=0&height=66"></iframe></p>
+
+  <!--下载介绍文件-->
+
+<p align="center"><a href="./images/Minecraft共产主义联盟.pdf" download="Minecraft共产主义联盟.pdf"><button type="button">下载介绍文件（PDF:5.9MB)</button></a></p>
+
+<p align="center"><img src="./images/op.jpeg"width="1024" height="511" /></p>
+
+ <!--底部导航栏-->
+
+<p style="background-color:#222222"style="color:#00A600"align="center"name="C4">
+
+<span size="20">声明：此服务器为非盈利性公益志愿组织，不接受任何捐助，不包含任何广告，不接受任何广告承包！</span><br> 
+<a name="C4"><span>&#128516;单击下方图标关注我们&#128512;</span></a><br>
+
+
+</a><a href="https://jq.qq.com/?_wv=1027&k=HkcZEDm4"target="_blank">
+<img border="0" src="./images/QQ.jpg"width="100" height="100" />&#160;&#160;&#160;&#160;</a><a href="https://y.music.163.com/m/artist?app_version=8.8.20&id=51058853&userid=3695971939&dlt=0846"target="_blank">
+<img border="0" src="./images/网易云音乐.jpg"width="100" height="100" />&#160;&#160;&#160;&#160;</a><a href="https://mr.baidu.com/r/MgWDbQo1cQ?f=cp&u=5eed65167eb12393"target="_blank">
+<img border="0" src="./images/百度.jpeg"width="100" height="100" />&#160;&#160;&#160;&#160;</a><a href="https://v.douyin.com/6Fy16w1/"target="_blank">
+<img border="0" src="./images/抖音.jpeg"width="100" height="100" />&#160;&#160;&#160;&#160;</a><a href="https://weibo.com/u/7460136539"target="_blank">
+<img border="0" src="./images/微博.jpeg"width="100" height="100" /></a>&#160;&#160;&#160;&#160;</a><br>
+<a href="mailto:pangxitong@yeah.net"target="_blank">
+<img border="0" src="./images/邮件.jpg"width="100" height="100" /></a>&#160;&#160;&#160;&#160;</a>
+<a href="https://github.com/PangXitong/Minecraft-Communism-Union-Official-Website.git"target="_blank">
+<img border="0" src="./images/GitHub.jpg"width="200" height="100" />&#160;&#160;&#160;&#160;</a>
+<a href="https://pan.baidu.com/s/1p4jVo-dy5jV47Dw_o46Gew?pwd=wdk4"target="_blank">
+<img border="0" src="./images/panbaidu.jpg"width="100" height="100" /></a>&#160;&#160;&#160;&#160;</a>
+<br>
+<small><small><a href="https://www.w3school.com.cn/html/index.asp"target="_blank">（HTML）</a> 
+&#160;&#160;&#160;&#160;<span>技术支持</span>&#160;&#160;&#160;&#160;
+<a href="https://www.w3school.com.cn/html/index.asp"target="_blank">（JavaScript）</a> </small></small>
+
+</p>
+
+</body>
+</html>
