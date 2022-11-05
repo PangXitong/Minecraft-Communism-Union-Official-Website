@@ -51,12 +51,12 @@
       <center> 
         <ul>
             <li><a href="#">Minecraft&#160;Communism&#160;Union
-            <li><a href="./index.html.html">首府厅</a></li>
-            <li><a href="./rules.html.html">规制堂</a></li>
-            <li><a href="./history.html.html">太史府</a></li>
-            <li><a href="./union.html.html">群主阁</a></li>
-            <li><a href="./publish.html.html">宣传谢</a></li>
-            <li><a href="./SignIn.html.html">登录</a></li>
+            <li><a href="./index.html.en">首府厅</a></li>
+            <li><a href="./rules.html.en">规制堂</a></li>
+            <li><a href="./history.html.en">太史府</a></li>
+            <li><a href="./union.html.en">群主阁</a></li>
+            <li><a href="./publish.html.en">宣传谢</a></li>
+            <li><a href="./SignIn.html.en">登录</a></li>
             <li><a href="#">下载帮助</a>
               <ul>
                 <li><a href="https://www.minecraft.net/zh-hans/download"onclick='return confirm("正版游戏，支持正版！");'target="_blank"><font>Minecraft</font></a></li>
