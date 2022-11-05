@@ -42,12 +42,13 @@
 }
 .top li a:hover{
   /* 鼠标选中时背景变为黑色 */
-  background-color: #293E66;
+  background-color: #000000;
+  font-size: 20px;
   transition: all 0.5s;
 }
 .top ul li ul{
   /* 设置二级菜单 */
-  margin-left: -0.2px;
+  margin-left: 0px;
   background:#182E8C;
   position: relative;
   display: none;    /* 默认隐藏二级菜单的内容 */
@@ -145,6 +146,7 @@ h4 {
     color: #fff;
     background-color: #222;
     padding: 1.5rem;
+    /* box-shadow: 0 0 0 30px; */
 }
 
 .main-footer h4 {

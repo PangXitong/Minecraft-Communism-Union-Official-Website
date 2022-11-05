@@ -51,19 +51,19 @@
       <center> 
         <ul>
             <li><a href="#">Minecraft&#160;Communism&#160;Union
-            <li><a href="./index.html.en">首府厅</a></li>
-            <li><a href="./rules.html.en">规制堂</a></li>
-            <li><a href="./history.html.en">太史府</a></li>
-            <li><a href="./union.html.en">群主阁</a></li>
-            <li><a href="./publish.html.en">宣传谢</a></li>
-            <li><a href="./SignIn.html.en">登录</a></li>
+            <li><a href="./index.html.html">首府厅</a></li>
+            <li><a href="./rules.html.html">规制堂</a></li>
+            <li><a href="./history.html.html">太史府</a></li>
+            <li><a href="./union.html.html">群主阁</a></li>
+            <li><a href="./publish.html.html">宣传谢</a></li>
+            <li><a href="./SignIn.html.html">登录</a></li>
             <li><a href="#">下载帮助</a>
               <ul>
                 <li><a href="https://www.minecraft.net/zh-hans/download"onclick='return confirm("正版游戏，支持正版！");'target="_blank"><font>Minecraft</font></a></li>
                 <li><a href="https://www.java.com/zh-CN/"onclick='return confirm("游戏必备驱动程序！");'target="_blank"><font>Java8</font></a></li>
                 <li><a href="https://www.oracle.com/java/technologies/downloads/"onclick='return confirm("游戏高级驱动程序，电脑条件允许的可以选用！");'target="_blank"><font>Java17</font></a></li>
-                <li><a href="https://hmcl.huangyuhui.net/"onclick='return confirm("服务器有正版验证，盗版离线用户不能加入服务器，有条件的尽量支持正版！");'target="_blank"><font>HMCL</font></a></li>
-                <li><a href="https://www.mcbbs.net/forum.php?mod=viewthread&tid=719579"onclick='return confirm("服务器有正版验证，盗版离线用户不能加入服务器，有条件的尽量支持正版！");'target="_blank"><font>PCL</font></a></li>
+                <li><a href="https://hmcl.huangyuhui.net/"onclick='return confirm("服务器有正版验证，非正版或离线用户不能加入服务器，有条件的尽量支持正版！");'target="_blank"><font>HMCL</font></a></li>
+                <li><a href="https://www.mcbbs.net/forum.php?mod=viewthread&tid=719579"onclick='return confirm("服务器有正版验证，非正版或离线用户不能加入服务器，有条件的尽量支持正版！");'target="_blank"><font>PCL</font></a></li>
               </ul>
             </li>        
           </ul>
@@ -147,8 +147,8 @@
                                   <li><a href="链接: https://pan.baidu.com/s/16nV6gqg0AwdkK37zXOC24g?pwd=cf8e"target="_blank">申请加入联盟</a></li>
                                   <li><a href="https://jq.qq.com/?_wv=1027&k=HkcZEDm4"target="_blank"target="_blank">上交申请表<br><br></a></li>
                                   <li><a href="https://pan.baidu.com/s/1p4jVo-dy5jV47Dw_o46Gew?pwd=wdk4"target="_blank">其他相关文件下载<br><br></a></li>
-                                  <li><a href="https://hmcl.huangyuhui.net/"onclick='return confirm("服务器有正版验证，盗版离线用户不能加入服务器，有条件的尽量支持正版！");'target="_blank"><font>HMCL启动器</font></a></li>
-                                                            <li><a href="https://www.mcbbs.net/forum.php?mod=viewthread&tid=719579"onclick='return confirm("服务器有正版验证，盗版离线用户不能加入服务器，有条件的尽量支持正版！");'target="_blank"><font>PCL启动器</font></a></li>
+                                  <li><a href="https://hmcl.huangyuhui.net/"onclick='return confirm("服务器有正版验证，非正版或离线用户不能加入服务器，有条件的尽量支持正版！");'target="_blank"><font>HMCL启动器</font></a></li>
+                                                            <li><a href="https://www.mcbbs.net/forum.php?mod=viewthread&tid=719579"onclick='return confirm("服务器有正版验证，非正版或离线用户不能加入服务器，有条件的尽量支持正版！");'target="_blank"><font>PCL启动器</font></a></li>
                               </ul>
                           </div>
                       </div>
