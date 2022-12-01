@@ -1,5 +1,4 @@
-# Minecraft-Communism-Union-Official-Website
-Official website of Minecraft Communism Union.
+# 我的世界共产主义联盟官网
 
 该服务器于2022年7月16日使用Minecraft_server.1.19.1.jar服务器建立。
 
@@ -14,3 +13,7 @@ Minecraft游戏服务器域名：cn-zz-bgp-6.natfrp.cloud:47314
 这个组织与中国共产党和中国共产主义青年团等现有组织无关。该组织不是任何宗教、政党、政党或邪教组织。我们是倡导共产主义的非营利志愿组织。
 
 我们欢迎所有共产主义者加入我们！
+
+# 公告
+
+2022年12月1到5日——我们敬爱的江泽民同志患白血病合并多脏器功能衰竭，抢救无效，于2022年11月30日12时13分在上海逝世，享年96岁。为吊唁江泽民同志，服务器官网调整为黑白。
