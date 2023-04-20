@@ -3,9 +3,9 @@
 该服务器于2022年7月16日使用Minecraft_server.1.19.1.jar服务器建立。
 
 
-官方网站：[https://pangxitong.github.io/mccu/index.html](https://pangxitong.github.io/mccu/index.html)
+官方网站：[https://mcjecu.github.io/index.html](https://mcjecu.github.io/index.html)
 
-仓库实时更新地址：[https://github.com/PangXitong/pangxitong.github.io/tree/main/mccu](https://github.com/PangXitong/pangxitong.github.io/tree/main/mccu)
+仓库实时更新地址：[https://github.com/PangXitong/pangxitong.github.io/tree/main/mccu](https://github.com/MCJECU/mcjecu.github.io)
 
 我们提倡共产主义，以空想社会主义思想为指导思想！我们是由中国青年学生组成的非营利志愿组织。
 
