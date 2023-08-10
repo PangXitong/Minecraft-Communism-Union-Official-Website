@@ -5,7 +5,7 @@
 
 官方网站：[https://mcjecu.github.io/index.html](https://mcjecu.github.io/index.html)
 
-仓库实时更新地址：[https://github.com/PangXitong/pangxitong.github.io/tree/main/mccu](https://github.com/MCJECU/mcjecu.github.io)
+仓库实时更新地址：[https://github.com/MCJECU/mcjecu.github.io](https://github.com/MCJECU/mcjecu.github.io)
 
 我们提倡共产主义，以空想社会主义思想为指导思想！我们是由中国青年学生组成的非营利志愿组织。
 
